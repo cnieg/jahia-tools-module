@@ -1,4 +1,4 @@
-#jahia-tools-module
+# jahia-tools-module
 
 Jahia module offering new administration endpoints (site import, site deletion ...)
 
